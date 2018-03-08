@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Contrail+One|Press+Start+2P');
 
 
-
-
 body {
   color:black;
 background-color:white;
@@ -31,144 +29,144 @@ a:hover, a:active {
 }
 .char1 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Anton;
 }
 
 .char2 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Anton;
 }
 
 .char3 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Anton;
 
 }
 .char4 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Anton;
 
 }
 .char5 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Contrail One;
 }
 .char6 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Contrail One;
 
 }
 .char7 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Contrail One;
 
 }
 
 .char8 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Contrail One;
 
 }
 
 .char9 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Contrail One;
 
 }
 
 .char10 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Contrail One;
 
 }
 
 .char11 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Contrail One;
 
 }
 
 .char12 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Contrail One;
 
 }
 
 .char13 {
 color: #0018FF;
-font-size: 1em;
+font-size: 6em;
 font-family: Contrail One;
 
 }
 
 .char14 {
 color: black;
-font-size: 1em;
+font-size: 6em;
 font-family: Contrail One;
 
 }
 
 .char15 {
   color: black;
-  font-size: 1em;
+  font-size: 6em;
   font-family: Contrail One;
 
 }
 
 .char16 {
   color: black;
-  font-size: 1em;
+  font-size: 6em;
   font-family: Contrail One;
 
 }
 .char17 {
   color: black;
-  font-size: 1em;
+  font-size: 6em;
   font-family: Contrail One;
 
 
 }
 .char18 {
   color: black;
-  font-size: 1em;
+  font-size: 6em;
   font-family: Contrail One;
 
 }
 .char19 {
   color: black;
-  font-size: 1em;
+  font-size: 6em;
   font-family: Contrail One;
 
 }
 .char20 {
   color: black;
-  font-size: 1em;
+  font-size: 6em;
   font-family: Contrail One;
 
 
 }
 .char21 {
   color: black;
-  font-size: 1em;
+  font-size: 6em;
   font-family: Contrail One;
 
 }
 
 .image-links {
-  display: grid;
-  justify-content:space-between;
+  display: flex;
+  justify-content:space-around;
   flex-wrap: wrap;
-  text-align: right;
+  text-align: center;
 }
