@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Contrail+One|Press+Start+2P');
 
 
+
 body {
   color:black;
 background-color:white;
@@ -12,13 +13,28 @@ background-image:url(images/bg.png);
 font-size: 1.5em;
 font-family: Contrail One;
 }
+
+.gallery-item {
+  width : 288px;
+  padding :5px;
+  border : 0;
+  padding : 5px;
+  text-align : center;
+  display: flex;
+  align-items: center;
+}
+
+.gallery-item img {
+  width : 100%;
+}
+
 a:link, a:visited {
     background-color: #0018FF;
     color: white;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+
 }
 
 a:hover, a:active {
